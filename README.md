@@ -17,10 +17,10 @@ Then choose the configuration you wish (e.g: `cloudInfra`):
 
 ```json
 {
-    'plugins': [
-        'pixellot'
+    "plugins": [
+        "@pixellot"
     ],
-    'extends': ['plugin:@pixellot/eslint-plugin/cloudInfra']
+    "extends": ["plugin:@pixellot/cloudInfra"]
 }
 ```
 
