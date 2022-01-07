@@ -12,7 +12,7 @@ npm install @pixellot/eslint-plugin --save-dev
 
 ## Usage
 
-Add `pixellot` to the plugins section of your `.eslintrc` configuration file.
+Add `@pixellot` to the plugins section of your `.eslintrc` configuration file.
 Then choose the configuration you wish (e.g: `cloudInfra`):
 
 ```json
