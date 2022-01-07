@@ -5,10 +5,10 @@ Plugin used by Pixellot company
 ## Installation
 
 Install `@pixellot/eslint-plugin`:
-
 ```sh
 npm install @pixellot/eslint-plugin --save-dev
 ```
+> **NOTE:**  You'll need npm 7 and above to install this plugin.
 
 ## Usage
 
