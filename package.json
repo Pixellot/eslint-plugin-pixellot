@@ -1,6 +1,6 @@
 {
   "name": "@pixellot/eslint-plugin",
-  "version": "1.4.0",
+  "version": "1.4.1",
   "description": "ESLint Plugin used by Pixellot company",
   "keywords": [
     "eslint",
