@@ -32,5 +32,8 @@
     "eslint-plugin-jest": "^25.3.4",
     "eslint-config-airbnb-base": "^15.0.0"
   },
+  "overrides": {
+    "json5": "^2.2.2"
+  },
   "license": "ISC"
 }
